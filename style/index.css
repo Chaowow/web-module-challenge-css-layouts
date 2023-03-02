@@ -1,1 +1,31 @@
-/* Add CSS styling here */
+/* Top Section */
+.topsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 25px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.description {
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+.social {
+    margin-top: 5%;
+    display: flex;
+    justify-content: left;
+}
